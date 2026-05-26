@@ -1,5 +1,7 @@
 # Python Performance Lab: Sharpening Your Instincts - `adriencaccia`
 
+[![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/trevored-py/pyconus-2026-tutorial?utm_source=badge)
+
 A PyCon US 2026 hands-on tutorial. You optimize intentionally slow Python code
 across three rounds plus a team challenge, measuring every change with
 [CodSpeed](https://codspeed.io).
